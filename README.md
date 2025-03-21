@@ -32,7 +32,7 @@ A simple, user-friendly **To-Do List** application with **drag-and-drop function
 3. Click the **X** button to delete a task.
 
 ## Screenshot
-![To-Do List Preview](Screenshot 2025-03-21 at 19.38.30)
+![To-Do List Preview](Screenshot.png)
 
 ## Contributing
 Feel free to submit issues or pull requests to improve this project.
